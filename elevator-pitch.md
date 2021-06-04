@@ -1,0 +1,5 @@
+The proposed final project is a searchable, thematic, single page, viewable Game of Thrones API database.  It will be responsively designed for Desktop, iPads, and iPhone/Smartphones.  There will be three different views cataloguing the books, characters, and houses of Game of Thrones.  An API of Ice and Fire will be the primary source of information for this application.
+
+Game of Thrones fans or those who are into fantasy are the primary users.  This will be a useful tool to understand the complex dynasties and houses, as well as characters and books found in the Game of Thrones universe.  It is designed to be an engaging, fun, and helpful resource, providing value in the form of deeper knowledge and fantasy.
+
+A series of wireframes will be published on GitHub in the form of a .pdf file.  These wireframes will illustrate a series of views.  Home page, books, characters, and houses will be the main three to four views.  There may be an additional detail page added for clickable details on each item searched.  Each page will be responsively designed for Desktop, iPad, iPhone.
